@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/da/developer/gamecaro/CaroActivity.java=UTF-8
+encoding//src/da/developer/gamecaro/CaroBoard.java=UTF-8
+encoding//src/da/developer/gamecaro/CaroModel.java=UTF-8
+encoding//src/da/developer/gamecaro/MySharedPreferences.java=UTF-8
+encoding//src/da/developer/gamecaro/ValueControl.java=UTF-8
+encoding//src/da/developer/gamecaro/dialog/DialogExit.java=UTF-8
+encoding//src/da/developer/gamecaro/dialog/DialogNew.java=UTF-8
+encoding//src/da/developer/gamecaro/dialog/DialogWin.java=UTF-8
+encoding//src/da/developer/gamecaro/sound/MusicBackground.java=UTF-8
+encoding//src/da/developer/gamecaro/sound/Sound.java=UTF-8
+encoding//src/da/developer/gamecaro/util/Util.java=UTF-8
+encoding//src/da/developer/gamecaro/util/UtilActivity.java=UTF-8
+encoding//src/da/developer/gamecaro/util/UtilDialog.java=UTF-8
+encoding//src/da/developer/gamecaro/util/UtilFormat.java=UTF-8

@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbg"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/bn_twoplayer"
+        style="@style/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/click_button"
+        android:text="HAI NGƯỜI CHƠI" />
+
+    <Button
+        android:id="@+id/bn_oneplayer"
+        style="@style/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bn_twoplayer"
+        android:layout_alignLeft="@+id/bn_twoplayer"
+        android:background="@drawable/click_button"
+        android:text="CHƠI VỚI MÁY" />
+
+    <Button
+        android:id="@+id/bn_help"
+        style="@style/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bn_twoplayer"
+        android:layout_below="@+id/bn_twoplayer"
+        android:background="@drawable/click_button"
+        android:text="TRỢ GIÚP" />
+
+    <Button
+        android:id="@+id/bn_exit"
+        style="@style/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bn_help"
+        android:layout_below="@+id/bn_help"
+        android:background="@drawable/click_button"
+        android:text="THOÁT" />
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+    <item android:id="@+id/menu_bookmark"
+          android:icon="@drawable/bookmark"
+          android:title="Bookmark" />
+ 
+    <item android:id="@+id/menu_save"
+          android:title="Save" />
+ 
+    <item android:id="@+id/menu_search"
+          android:icon="@drawable/search"
+          android:title="Search" />
+ 
+    <item android:id="@+id/menu_share"
+          android:icon="@drawable/share"
+          android:title="Share" />
+ 
+    <item android:id="@+id/menu_delete"
+          android:icon="@drawable/delete"
+          android:title="Delete" />
+ 
+    <item android:id="@+id/menu_preferences"
+          android:icon="@drawable/preferences"
+          android:title="Preferences" />
+ 
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameCaro</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_exit">Bạn có muốn thoát game?</string>
+    <string name="txt_new">Bạn có muốn chơi mới?</string>
+    <string name="txt_win">Bạn có muốn chơi tiếp!</string>
+
+</resources>
